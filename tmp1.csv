@@ -38,19 +38,19 @@ REG,PROV,COD_PROVCOM,NOME_REGIONE,NOME_PROVINCIA,NOME_COMUNE,DATA_INIZIO_DIFF,SE
 01,001,001001,Piemonte,Torino,Aglie',1 aprile,15/03-21/03,65-74 anni,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0
 01,001,001001,Piemonte,Torino,Aglie',1 aprile,22/03-28/03,65-74 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 01,001,001001,Piemonte,Torino,Aglie',1 aprile,29/03-04/04,65-74 anni,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,01/01-11/01,75 anni e più,1,0,0,1,0,1,0,3,1,3,1,1,1,3,1,4,1,2
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,12/01-18/01,75 anni e più,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,1,0,1
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,19/01-25/01,75 anni e più,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,26/01-01/02,75 anni e più,0,0,1,2,0,0,0,1,0,1,0,0,0,1,1,3,0,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,02/02-08/02,75 anni e più,1,0,0,0,0,1,0,0,1,0,3,0,1,0,1,0,3,1
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,09/02-15/02,75 anni e più,0,0,1,1,0,0,0,0,2,0,2,0,0,0,3,1,2,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,16/02-22/02,75 anni e più,1,0,0,1,0,3,2,1,0,0,1,1,3,1,0,1,1,4
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,23/02-29/02,75 anni e più,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,2,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,01/03-07/03,75 anni e più,0,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,4
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,08/03-14/03,75 anni e più,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,15/03-21/03,75 anni e più,0,1,0,0,0,1,1,1,0,1,1,0,1,2,0,1,1,1
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,22/03-28/03,75 anni e più,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
-01,001,001001,Piemonte,Torino,Aglie',1 aprile,29/03-04/04,75 anni e piu',0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,01/01-11/01,75 anni e piu,1,0,0,1,0,1,0,3,1,3,1,1,1,3,1,4,1,2
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,12/01-18/01,75 anni e piu,0,0,0,0,0,0,1,1,0,1,0,1,1,1,0,1,0,1
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,19/01-25/01,75 anni e piu,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,26/01-01/02,75 anni e piu,0,0,1,2,0,0,0,1,0,1,0,0,0,1,1,3,0,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,02/02-08/02,75 anni e piu,1,0,0,0,0,1,0,0,1,0,3,0,1,0,1,0,3,1
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,09/02-15/02,75 anni e piu,0,0,1,1,0,0,0,0,2,0,2,0,0,0,3,1,2,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,16/02-22/02,75 anni e piu,1,0,0,1,0,3,2,1,0,0,1,1,3,1,0,1,1,4
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,23/02-29/02,75 anni e piu,0,0,0,0,1,0,0,1,1,1,1,0,0,1,1,1,2,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,01/03-07/03,75 anni e piu,0,1,0,0,0,0,0,0,0,0,0,4,0,1,0,0,0,4
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,08/03-14/03,75 anni e piu,0,0,1,0,0,0,0,0,0,1,1,0,0,0,1,1,1,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,15/03-21/03,75 anni e piu,0,1,0,0,0,1,1,1,0,1,1,0,1,2,0,1,1,1
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,22/03-28/03,75 anni e piu,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+01,001,001001,Piemonte,Torino,Aglie',1 aprile,29/03-04/04,75 anni e piu,0,0,0,0,0,0,1,0,1,0,1,0,1,0,1,0,1,0
 01,001,001006,Piemonte,Torino,Almese,1 aprile,01/01-11/01,0-14 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 01,001,001006,Piemonte,Torino,Almese,1 aprile,12/01-18/01,0-14 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 01,001,001006,Piemonte,Torino,Almese,1 aprile,19/01-25/01,0-14 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -90,16 +90,16 @@ REG,PROV,COD_PROVCOM,NOME_REGIONE,NOME_PROVINCIA,NOME_COMUNE,DATA_INIZIO_DIFF,SE
 01,001,001006,Piemonte,Torino,Almese,1 aprile,15/03-21/03,65-74 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 01,001,001006,Piemonte,Torino,Almese,1 aprile,22/03-28/03,65-74 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 01,001,001006,Piemonte,Torino,Almese,1 aprile,29/03-04/04,65-74 anni,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-01,001,001006,Piemonte,Torino,Almese,1 aprile,01/01-11/01,75 anni e piu',1,0,1,1,1,1,2,0,2,2,0,1,3,0,3,3,1,2
-01,001,001006,Piemonte,Torino,Almese,1 aprile,12/01-18/01,75 anni e piu',1,1,0,1,0,0,0,3,2,0,3,0,1,4,2,1,3,0
-01,001,001006,Piemonte,Torino,Almese,1 aprile,19/01-25/01,75 anni e piu',0,0,1,0,1,0,1,0,2,0,0,1,1,0,3,0,1,1
-01,001,001006,Piemonte,Torino,Almese,1 aprile,26/01-01/02,75 anni e piu',0,0,1,1,2,0,1,0,1,1,0,2,1,0,2,2,2,2
-01,001,001006,Piemonte,Torino,Almese,1 aprile,02/02-08/02,75 anni e piu',1,0,0,0,0,0,1,0,0,1,1,0,2,0,0,1,1,0
-01,001,001006,Piemonte,Torino,Almese,1 aprile,09/02-15/02,75 anni e piu',0,1,0,0,0,0,1,0,1,2,1,0,1,1,1,2,1,0
-01,001,001006,Piemonte,Torino,Almese,1 aprile,16/02-22/02,75 anni e piu',1,0,1,0,1,0,2,0,0,1,0,2,3,0,1,1,1,2
-01,001,001006,Piemonte,Torino,Almese,1 aprile,23/02-29/02,75 anni e piu',0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1
-01,001,001006,Piemonte,Torino,Almese,1 aprile,01/03-07/03,75 anni e piu',0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1
-01,001,001006,Piemonte,Torino,Almese,1 aprile,08/03-14/03,75 anni e piu',1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1
-01,001,001006,Piemonte,Torino,Almese,1 aprile,15/03-21/03,75 anni e piu',0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0
-01,001,001006,Piemonte,Torino,Almese,1 aprile,22/03-28/03,75 anni e piu',1,0,0,1,0,2,0,0,0,0,0,0,1,0,0,1,0,2
-01,001,001006,Piemonte,Torino,Almese,1 aprile,29/03-04/04,75 anni e piu',0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1
+01,001,001006,Piemonte,Torino,Almese,1 aprile,01/01-11/01,75 anni e piu,1,0,1,1,1,1,2,0,2,2,0,1,3,0,3,3,1,2
+01,001,001006,Piemonte,Torino,Almese,1 aprile,12/01-18/01,75 anni e piu,1,1,0,1,0,0,0,3,2,0,3,0,1,4,2,1,3,0
+01,001,001006,Piemonte,Torino,Almese,1 aprile,19/01-25/01,75 anni e piu,0,0,1,0,1,0,1,0,2,0,0,1,1,0,3,0,1,1
+01,001,001006,Piemonte,Torino,Almese,1 aprile,26/01-01/02,75 anni e piu,0,0,1,1,2,0,1,0,1,1,0,2,1,0,2,2,2,2
+01,001,001006,Piemonte,Torino,Almese,1 aprile,02/02-08/02,75 anni e piu,1,0,0,0,0,0,1,0,0,1,1,0,2,0,0,1,1,0
+01,001,001006,Piemonte,Torino,Almese,1 aprile,09/02-15/02,75 anni e piu,0,1,0,0,0,0,1,0,1,2,1,0,1,1,1,2,1,0
+01,001,001006,Piemonte,Torino,Almese,1 aprile,16/02-22/02,75 anni e piu,1,0,1,0,1,0,2,0,0,1,0,2,3,0,1,1,1,2
+01,001,001006,Piemonte,Torino,Almese,1 aprile,23/02-29/02,75 anni e piu,0,1,1,0,0,1,0,0,0,0,1,0,0,1,1,0,1,1
+01,001,001006,Piemonte,Torino,Almese,1 aprile,01/03-07/03,75 anni e piu,0,0,1,0,0,1,1,0,0,0,0,0,1,0,1,0,0,1
+01,001,001006,Piemonte,Torino,Almese,1 aprile,08/03-14/03,75 anni e piu,1,0,0,1,0,0,0,1,0,0,0,1,1,1,0,1,0,1
+01,001,001006,Piemonte,Torino,Almese,1 aprile,15/03-21/03,75 anni e piu,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0
+01,001,001006,Piemonte,Torino,Almese,1 aprile,22/03-28/03,75 anni e piu,1,0,0,1,0,2,0,0,0,0,0,0,1,0,0,1,0,2
+01,001,001006,Piemonte,Torino,Almese,1 aprile,29/03-04/04,75 anni e piu,0,1,0,0,1,1,1,0,0,0,0,0,1,1,0,0,1,1
